@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Maria Aline Mees
+# 👩🏻‍💻 Maria Aline Mees
 
 Hi there! I'm Maria Aline, a tech enthusiast currently transitioning into the world of software development. I'm focused on backend development with **Java**, taking hands-on training through **Alura**, **Entra21**, and **DIO**.
 
