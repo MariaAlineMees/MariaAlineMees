@@ -1,21 +1,39 @@
 # 👩🏻‍💻 Maria Aline Mees
 
-Hi there! I'm Maria Aline, a tech enthusiast currently transitioning into the world of software development. I'm focused on backend development with **Java**, taking hands-on training through **Alura**, **Entra21**, and **DIO**.
+Hi there! I'm Maria Aline, a tech enthusiast currently transitioning into the world of software development. I'm focused on backend development with **Java**, taking hands-on training through **Alura**, **Entra21**, **DIO** and **+Devs2Blu** .
 
-💻 Currently learning:
-- Java and Object-Oriented Programming (OOP)
-- PostgreSQL Database
-- Git and GitHub version control
-- Spring Framework
+## 💻 Skills & Learning Journey
+
+I am constantly learning, focused on building robust, scalable applications with clean code.
+
+### 🚀 Current Focus
+- **Spring Boot** (Developing RESTful APIs, Microservices, and Web applications)
+- **Angular** (To expand my knowledge and proficiency in Full-Stack development)
+- **Deployment** (Learning about CI/CD processes and how to put applications into production)
+
+### ✅ Core Knowledge
+- **Java** and Object-Oriented Programming (OOP)
+- **Databases**: PostgreSQL, MySQL, and MongoDB (NoSQL)
+- **Version Control**: Git and GitHub
 - Data Structures and Programming Logic
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technologies and Tools
 
+Here are some of the tools and technologies I use or am actively learning:
+
+### Backend & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend & Tools
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -23,7 +41,7 @@ Hi there! I'm Maria Aline, a tech enthusiast currently transitioning into the wo
 
 ---
 
-## 📈 Most Used Languages
+## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAlineMees&layout=compact&theme=dracula)
 
