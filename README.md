@@ -1,12 +1,13 @@
 # 👩🏻‍💻 Maria Aline Mees
 
-Hi there! I'm Maria Aline, a tech enthusiast currently transitioning into the world of software development. I'm focused on backend development with **Java**, taking hands-on training through **Alura**, **Entra21**, **DIO** and **+Devs2Blu** .
+Hi there! I'm Maria Aline, a tech enthusiast currently transitioning into the world of software development. I'm focused on backend development with **Java**, I am currently diving deep into the **Node.js** ecosystem to build scalable and efficient APIs, taking hands-on training through **Alura**, **Entra21**, **DIO** and **+Devs2Blu** .
 
 ## 💻 Skills & Learning Journey
 
 I am constantly learning, focused on building robust, scalable applications with clean code.
 
 ### 🚀 Current Focus
+- 🎓 **Education:** Pursuing a Bachelor's in **Information Systems at UFBRA**.
 - **Spring Boot** (Developing RESTful APIs, Microservices, and Web applications)
 - **Angular** (To expand my knowledge and proficiency in Full-Stack development)
 - **Deployment** (Learning about CI/CD processes and how to put applications into production)
@@ -26,6 +27,7 @@ Here are some of the tools and technologies I use or am actively learning:
 ### Backend & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
