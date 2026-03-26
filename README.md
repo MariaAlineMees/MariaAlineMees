@@ -45,7 +45,7 @@ Here are some of the tools and technologies I use or am actively learning:
 
 ## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAlineMees&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MariaAlineMees&show_icons=true&theme=dracula)
 
 ---
 
