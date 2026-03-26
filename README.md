@@ -45,7 +45,7 @@ Here are some of the tools and technologies I use or am actively learning:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MariaAlineMees&show_icons=true&theme=dracula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaAlineMees&theme=dracula)
 
 ---
 
